@@ -1,4 +1,4 @@
-const name = "Joe";
+cnst name = "Susan";
 const height = 74;
 const message = `${name} is ${height} inches tall`;
 
